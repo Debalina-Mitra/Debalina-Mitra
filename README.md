@@ -27,10 +27,12 @@ I’m a data science enthusiast with a background in **engineering, data analysi
 
 
 📌 **Highlighted Projects**  
-- 📊 *Restaurant Sales Forecasting* – Predicted sales trends using regression and ensemble models  
-- 🎬 *Netflix Data Analysis* – Discovered streaming insights and visualized key patterns  
-- 🏦 *Bank Marketing Targets* – Built classification models to predict customer conversion  
-- 🚗 *Road Accidents in India* – Analyzed accident causes and visualized regulatory insights  
+- 👥 *Employee Churn Prediction (Salifort Motors) – Identified key attrition factors, built predictive models (Logistic Regression, Decision Trees, Random Forest), and recommended retention strategies to HR. *[View on Kaggle](https://www.kaggle.com/code/debalinamitra/predicting-employee-turnover)
+- 💳 *LendingClub Loan Default Prediction* – Analyzed loan application data to predict defaults using machine learning (Logistic Regression, Random Forest, Gradient Boosting) and provided actionable insights for risk management. [View on Kaggle](https://www.kaggle.com/code/debalinamitra/loan-default-lendingclub)
+- 📊 *Restaurant Sales Forecasting* – Predicted sales trends using regression and ensemble models. [View on Kaggle](https://www.kaggle.com/code/debalinamitra/restaurant-sales-forecasting)
+- 🎬 *Netflix Data Analysis* – Discovered streaming insights and visualized key patterns. [View on Kaggle](https://www.kaggle.com/code/debalinamitra/restaurant-sales-forecasting)
+- 🏦 *Bank Marketing Targets* – Built classification models to predict customer conversion. [View on Kaggle](https://www.kaggle.com/code/debalinamitra/restaurant-sales-forecasting)
+- 🚗 *Road Accidents in India* – Analyzed accident causes and visualized regulatory insights. [View on Kaggle](https://www.kaggle.com/code/debalinamitra/restaurant-sales-forecasting)
 
 🎓 **Education & Certifications**  
 - PGP in AI & ML – CalTech via Simplilearn (2025)  
