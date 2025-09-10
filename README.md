@@ -27,12 +27,12 @@ I’m a data science enthusiast with a background in **engineering, data analysi
 
 
 📌 **Highlighted Projects**  
-- 👥 *Employee Churn Prediction (Salifort Motors) – Identified key attrition factors, built predictive models (Logistic Regression, Decision Trees, Random Forest), and recommended retention strategies to HR. *[View on Kaggle](https://www.kaggle.com/code/debalinamitra/predicting-employee-turnover)
-- 💳 *LendingClub Loan Default Prediction* – Analyzed loan application data to predict defaults using machine learning (Logistic Regression, Random Forest, Gradient Boosting) and provided actionable insights for risk management. [View on Kaggle](https://www.kaggle.com/code/debalinamitra/loan-default-lendingclub)
-- 📊 *Restaurant Sales Forecasting* – Predicted sales trends using regression and ensemble models. [View on Kaggle](https://www.kaggle.com/code/debalinamitra/restaurant-sales-forecasting)
-- 🎬 *Netflix Data Analysis* – Discovered streaming insights and visualized key patterns. [View on Kaggle](https://www.kaggle.com/code/debalinamitra/restaurant-sales-forecasting)
-- 🏦 *Bank Marketing Targets* – Built classification models to predict customer conversion. [View on Kaggle](https://www.kaggle.com/code/debalinamitra/restaurant-sales-forecasting)
-- 🚗 *Road Accidents in India* – Analyzed accident causes and visualized regulatory insights. [View on Kaggle](https://www.kaggle.com/code/debalinamitra/restaurant-sales-forecasting)
+- 👥 *Employee Churn Prediction (Salifort Motors)* – Identified key attrition factors, built predictive models (Logistic Regression, Decision Trees, Random Forest), and recommended retention strategies to HR. <a href="https://www.kaggle.com/code/debalinamitra/predicting-employee-turnover" target="_blank">View on Kaggle</a>
+- 💳 *LendingClub Loan Default Prediction* – Analyzed loan application data to predict defaults using machine learning (Logistic Regression, Random Forest, Gradient Boosting) and provided actionable insights for risk management. <a href="https://www.kaggle.com/code/debalinamitra/loan-default-lendingclub" target="_blank">View on Kaggle</a>
+- 🏦 *Bank Marketing Targets* – Built classification models to predict customer conversion. <a href="https://www.kaggle.com/code/debalinamitra/banking-data-analysis-marketing-targets" target="_blank">View on Kaggle</a>
+- 📊 *Restaurant Sales Forecasting* – Predicted sales trends using regression and ensemble models. <a href="https://www.kaggle.com/code/debalinamitra/restaurant-sales-forecasting" target="_blank">View on Kaggle</a>
+- 🎬 *Netflix Data Analysis* – Discovered streaming insights and visualized key patterns. <a href="https://www.kaggle.com/code/debalinamitra/netflix-data-cleaning-analysis-and-visualization" target="_blank">View on Kaggle</a>
+- 🚗 *Road Accidents in India* – Analyzed accident causes and visualized regulatory insights. <a href="https://www.kaggle.com/code/debalinamitra/road-accidents-in-india-regulatory-affairs" target="_blank">View on Kaggle</a>
 
 🎓 **Education & Certifications**  
 - PGP in AI & ML – CalTech via Simplilearn (2025)  
